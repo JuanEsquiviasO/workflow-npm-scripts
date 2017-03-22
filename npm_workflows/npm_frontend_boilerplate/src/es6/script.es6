@@ -15,6 +15,7 @@
 	}
 
 	let rommel = new Perro('Rommel', 'Sheppard')
+	// rommel.ladrar()
 
 	console.log(html, head, body)
 })(document, window, navigator);

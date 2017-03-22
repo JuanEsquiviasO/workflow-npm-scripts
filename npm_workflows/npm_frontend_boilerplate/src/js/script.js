@@ -28,6 +28,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 	}();
 
 	var rommel = new Perro('Rommel', 'Sheppard');
+	// rommel.ladrar()
 
 	console.log(html, head, body);
 })(document, window, navigator);

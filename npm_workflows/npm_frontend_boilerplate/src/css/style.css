@@ -1,9 +1,11 @@
 html {
   font-family: sans-serif;
   font-size: 16px;
-  background-color: #1F3E79; }
+  background-color: #2291D0; }
 
 a {
-  color: darkred; }
+  color: #FDD624; }
   a:hover {
     color: #1F3E79; }
+
+/*1:20 tareas livereload clase 3*/
